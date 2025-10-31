@@ -1,0 +1,10 @@
+# robots.txt for Bliss Beauty Studio - K2 Perfumes India
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://blissbeautystudio.in/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
